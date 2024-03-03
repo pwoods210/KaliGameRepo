@@ -15,3 +15,8 @@ checkout unique branch aka "Greg branch"
 import project into unity
 
 start deving!
+
+
+
+
+Google doc for design: https://docs.google.com/document/d/1wlOj1uUB-qTAIbewLE_MgFlF2HWnsTtUgrj_3WPRMOI/edit?usp=sharing
